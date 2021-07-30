@@ -15,3 +15,6 @@ Create a shortcut in $env:APPDATA\Microsoft\Windows\SendTo with the name "Invoke
 
 ## Usage
 Right-click a file from File Explorer, select Send To > InvokeElevated.
+  
+## Contributing
+Open to all - its just a simple powershell script.
